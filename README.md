@@ -8,13 +8,13 @@ The course emphasizes **statistical reasoning** and **hands-on analysis using Py
 ## Course Structure
 - **Lectures:** Conceptual foundations and worked examples
 - **Jupyter Notebooks:** Step-by-step walkthroughs that reproduce all numeric and data-based examples from lecture slides
-- **Homework & Quizzes:** Reinforce interpretation and computation
+- **Reading & Quizzes:** Reinforce interpretation and computation
 - **Exams:** Focus on understanding, not memorization
 
 ---
 
 ## Software & Tools
-- Python (via Jupyter / JupyterHub / Colab)
+- Python (via Jupyter / Colab)
 - NumPy, Pandas, Matplotlib, SciPy
 - No advanced programming required
 
